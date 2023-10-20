@@ -1,0 +1,32 @@
+.oo1{
+display: flex;
+justify-content: space-around;
+
+}
+.mmm{
+border-radius: 50%;
+height: 40px;
+width: 40px;
+
+}
+
+
+.mmp{
+    border-radius: 50%;
+    height: 70px;
+    width: 50px;
+    
+    }
+  
+    .chat_input{
+    
+        position: relative;
+        height:60px;
+        width: 95%;
+        background: #f0f0f0;
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 15px;
+        }

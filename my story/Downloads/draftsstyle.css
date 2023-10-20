@@ -1,0 +1,154 @@
+table,th,tr{;
+    border:5px  ;
+    height: 150px; ;
+    
+    }
+    
+    td{
+    
+    width:200px ;
+    ;
+    text-align: center;
+    border:none;
+    
+    
+    
+    
+    }
+    
+    td{
+    height:150px ;
+    width:100px
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    tr:nth-child(odd) {
+    background-color: ;
+    
+    }
+    .td1{
+        background-color: yellow;
+    }
+    .td2{
+        background-color: red;
+    }
+    
+    
+    .td3{
+    background-color:yellow;
+    
+    }
+    .td4{
+    background-color: black;
+    
+    
+    }
+    .td5{
+    
+    background-color:yellow;
+    
+    }
+    .td6{
+    background-color: black;
+    
+    
+    }
+    
+    .
+    
+    .td7{
+    
+    background-color: yellow;
+    
+    }
+    .td8{
+    background-color:black;
+    
+    }
+    .td9{
+        background-color: yellow;
+    }
+    
+    .td10 {
+    background-color: black;
+    
+    }
+    .td11 {
+        background-color: yellow;
+    }
+    
+    .td12{
+        background-color: black;
+    }
+    .td13 {
+    background-color:red;
+    
+    }
+    .td14 { 
+        background-color: yellow;
+    }
+    
+    .td15{
+        background-color: black;
+    }
+    .td16{background-color: yellow;}
+    
+    .td17{ background-color: yellow;}
+    .td18{ background-color: black;}
+    .td19{background-color:yellow ;}
+    .td20{background-color: black;}
+    .td21{background-color: yellow}
+    .td22{background-color: black;}
+    .td23 {background-color:yellow ;}
+    .td24{background-color: red;}
+    .td25{background-color: yellow;}
+    .td26{background-color: black;}
+    .td27{ background-color: yellow;}
+    .td28{ background-color: black;}
+    .td29{ background-color: yellow;}
+    .t30{ background-color:black ;}
+    
+    .td31{background-color:yellow ;}
+    .td32 {background-color:black ;}
+    .td33 {background-color: yellow;}
+    .td34{background-color: black;}
+    .td35{background-color: red;}
+    .td36{background-color:yellow ;}
+    .td37{background-color: black;}
+    .td38 {background-color:yellow ;}
+    .td39 { background-color: black;}
+    .td40{background-color:yellow ;}
+    
+    td41{
+        background-color: black;
+    }
+    .td42{ background-color:yellow ;}
+    .td43{background-color: black;}
+    .td44{background-color: yellow;}
+    .td45{background-color: black;}
+    .td46{background-color: red;}
+    .td47{background-color:yellow ;}
+    .td48{background-color: black;}
+    .td49{background-color: yellow;}
+    .td50{background-color: black;}
+    
+    
+    
+    .td51 {background-color: red ;}
+    .td52{background-color: yellow;}
+    .td53{background-color:black ;}
+    .td54{background-color: yellow;}
+    .td55{background-color: black;}
+    .td56 {background-color:yellow;}
+    .td57{background-color:black ;}
+    .td58{background-color:yellow ;}
+    .td59{background-color:black;}
+    .td60 {background-color:yellow ;}
+    

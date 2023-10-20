@@ -1,0 +1,26 @@
+.o1{background-color: yellow;
+height: 300px;
+width: 100%;
+}
+
+.o2{background-color: blue;
+width: 70px;
+height: 50px;
+top: 1%;
+position: absolute;
+
+}
+
+.o3{background-color: green;
+width: 70px;
+height: 50px;
+position: absolute;
+right: 10px;
+top: 10px;
+}
+
+.o5{height: 300px;width: 30%;cursor: pointer;
+
+}
+.o5:hover{background-color: aqua;opacity: 0.4;}
+

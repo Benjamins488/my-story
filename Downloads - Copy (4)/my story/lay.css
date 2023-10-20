@@ -1,0 +1,149 @@
+.a1{height: 70px;
+width: 150;
+margin-top: 20px;}
+
+.a4{margin-left: 50px;margin-top: 20px;}
+
+nav{display: flex;
+background-color: white;
+height: 100px;
+justify-content: space-evenly;
+}
+
+body{background-color: whitesmoke;}
+
+button{height: 40px;
+width: 70px;}
+
+.a3{color: rgb(5, 5,56);
+font-size: 40px;
+margin-top: 140px;
+margin-left: 100px;
+
+}
+
+.a7{font-size: 20px;display:flex ;
+margin-left: 70&;}
+
+.a6{ display:flex;font-size: 20px;}
+
+
+.a9{display:list-item;}
+
+.a10{font-size: 40px;text-align: center;}
+
+.a11{font-size: 20px;text-align: center;}
+.tot{display: flex;justify-content: space-evenly;}
+.a12{display: flex;margin-left: 70px;}
+.ben1{display:flex;margin-right: 50%;}
+.a13{font-size: 18px;margin-left: 70px;}
+
+.a20{margin-left: 80px;}
+
+.a40{display: flex;display:list-item;}
+
+.e22{display: flex;font-size: 20px;}
+
+.e23{display: flex;margin-left: 70px;}
+
+.ben{display: flex;margin-right: 70px;text-align: justify;}
+
+.e44{display:}
+.dok{display: flex;}
+.sam{display: flex;}
+.img{text-align: right;}
+
+.tb{display: flex;background-color: white;
+margin:60px;
+}
+nav{}
+
+.al{display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 30px;
+}
+.mea{display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 30px;
+
+}
+.a40{display: flex;
+align-items: center;
+justify-self: auto;
+
+
+}
+
+.lay{background-color: white;border-radius:
+     50%;display: flex;width: 200px;height:
+     150px;margin-left: 5%;
+     align-items: center;}
+.lax{background-color: white;border-radius:
+     50%;display: flex;margin-left: 5%;align-items: center;
+     width: 200px;
+     height:150px ;}
+.laz{background-color: white;border-radius: 50%;display: flex;width: 200px;height: 15opx;
+margin-left:5% ;align-items: center;
+}
+
+.sea{display: flex;}
+
+
+.meb{display:flex;align-items: center;justify-content: space-between;margin-top: 30px;}
+
+p{
+     background-color: aqua;
+border: 5px solid;
+padding: 20px;
+display: none;
+}
+
+div:hover p{display: block;}
+
+/* Container holding the image and the text */
+.container {
+     position: relative;
+     text-align: center;
+     color: white;
+   }
+   
+   /* Bottom left text */
+   .bottom-left {
+     position: absolute;
+     bottom: 8px;
+     left: 16px;
+   }
+   
+   /* Top left text */
+   .top-left {
+     position: absolute;
+     top: 8px;
+     left: 16px;
+   }
+   
+   /* Top right text */
+   .top-right {
+     position: absolute;
+     top: 8px;
+     right: 16px;
+   }
+   
+   /* Bottom right text */
+   .bottom-right {
+     position: absolute;
+     bottom: 8px;
+     right: 16px;
+   }
+   
+   /* Centered text */
+   .centered {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+   }
+
+
+
